@@ -30,6 +30,6 @@ This is a Chrome extension that enhances your Gmail experience by generating AI-
     The response is returned and displayed in Gmail for user editing/sending
  
 <p align="center">
-  <img alt="Email_reply" height="800px" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/main/Email_reply.jpg" />
+  <img alt="Email_reply" height="500px" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/main/Email_reply.jpg" />
 </p>
 
