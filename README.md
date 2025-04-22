@@ -28,4 +28,8 @@ This is a Chrome extension that enhances your Gmail experience by generating AI-
     The server processes it using the Gemini API
 
     The response is returned and displayed in Gmail for user editing/sending
-    <img align="left" alt="Java" height="60px" src="https://github.com/Farukbsfmstu/Online-registration-form/blob/javaimage/Email_reply.jpg" /> 
+ 
+<p align="center">
+  <img alt="Email_reply" height="100px" src="https://raw.githubusercontent.com/Farukbsfmstu/Online-registration-form/main/Email_reply.jpg" />
+</p>
+
