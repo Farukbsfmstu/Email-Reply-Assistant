@@ -1,7 +1,8 @@
 💬 Email Reply Assistant – Chrome Extension
 
 This is a Chrome extension that enhances your Gmail experience by generating AI-based email replies with a single click. Powered by Google's Gemini API and a Java Spring Boot backend, it helps users draft professional responses quickly and efficiently.
-🚀 Features
+<br>
+🚀 Features:
 
     🧠 Generates smart replies using Gemini LLM
 
@@ -13,9 +14,9 @@ This is a Chrome extension that enhances your Gmail experience by generating AI-
 
 🛠 Tech Stack
 
-    Frontend: Chrome Extension (JavaScript, HTML, CSS)
+    Frontend: Chrome Extension (JavaScript , CSS)
 
-    Backend: Java + Spring Boot
+    Backend: Java , Spring Boot
 
     AI: Gemini API (Google's Generative Language Model)
 
